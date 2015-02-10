@@ -1,0 +1,9 @@
+Package: ipkg-util
+Version: 1.7-0.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python (>= 2.7.4-0ubuntu1)
+Maintainer: Hans Kramer <jlam.kramer@gmail.com>
+Description: ipkg-utils
+

@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: iPKG
+Version: 0.1
+Summary: ipkg utilities implemented in python
+Home-page: http://www.handhelds.org/sources.html/
+Author: Alexander Guy, Jamey Hicks
+Author-email: a7r@andern.org
+License: ??
+Description: 
+        iPKG utilities implemented in Python
+        
+        ipkg.py              implements Package class
+        ipkg-make-index.py   generates index for feed with only latest version of package listed
+        
+Keywords: ipkg familiar
+Platform: POSIX
