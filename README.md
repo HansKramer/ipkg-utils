@@ -6,3 +6,5 @@ BUILD
 =====
 
 fakeroot dpkg -b ipkg-1.7-0.1
+
+or run the ./build.sh script
